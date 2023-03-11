@@ -4,3 +4,4 @@ artifacts
 cache/
 secrets.json
 soljson*
+typechain-types
