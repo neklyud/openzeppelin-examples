@@ -2,6 +2,7 @@ node_modules
 .vscode
 artifacts
 cache/
-./secrets.json
+secrets.json
 soljson*
 typechain-types
+soljson-v0.8.10+commit.fc410830.js
